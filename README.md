@@ -22,8 +22,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/) and integrates [R
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-js-vite-tailwind.git
-cd react-js-vite-tailwind
+git clone https://github.com/pravint22/pravin_s_application.git
 ```
 
 2. Install dependencies:
